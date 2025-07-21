@@ -1,1 +1,1 @@
-# tiktool-status
+1
